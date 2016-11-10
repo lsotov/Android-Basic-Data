@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Working with Data Basic</string>
+    <string name="keyvalue_button">Key Value</string>
+    <string name="file_button">File</string>
+    <string name="sql_button">SQL</string>
+    <string name="savekeyvalue">Save</string>
+    <string name="readkeyvalue">Read</string>
+</resources>
