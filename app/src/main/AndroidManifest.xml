@@ -1,11 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.lsoto.workingwithdatabasic">
+
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-    <!-- Currently, all apps have the ability to read the external storage without a special permission.
+    <!--
+     Currently, all apps have the ability to read the external storage without a special permission.
      However, this will change in a future release.
      However, if your app uses the WRITE_EXTERNAL_STORAGE permission, then it implicitly has permission to read the external storage as well.
-     -->
+    -->
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
 
     <application
@@ -22,7 +24,8 @@
             </intent-filter>
         </activity>
         <activity android:name=".KeyValueData" />
-        <activity android:name=".FileData"></activity>
+        <activity android:name=".FileData" />
+        <activity android:name=".SqlData"></activity>
     </application>
 
 </manifest>
