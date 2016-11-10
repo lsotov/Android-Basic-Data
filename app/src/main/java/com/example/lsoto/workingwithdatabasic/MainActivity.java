@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     public void startFile(View view){
-        Intent intent = new Intent(this, KeyValueData.class);
+        Intent intent = new Intent(this, FileData.class);
         startActivity(intent);
     }
 

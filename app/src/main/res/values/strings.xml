@@ -6,4 +6,7 @@
     <string name="savekeyvalue">Save</string>
     <string name="readkeyvalue">Read</string>
     <string name="deletekeyvalue">Delete</string>
+    <string name="create_file">Create File</string>
+    <string name="check_file">Check File</string>
+    <string name="delete_file">Delete File</string>
 </resources>
