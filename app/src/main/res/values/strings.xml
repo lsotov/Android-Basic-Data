@@ -5,4 +5,5 @@
     <string name="sql_button">SQL</string>
     <string name="savekeyvalue">Save</string>
     <string name="readkeyvalue">Read</string>
+    <string name="deletekeyvalue">Delete</string>
 </resources>

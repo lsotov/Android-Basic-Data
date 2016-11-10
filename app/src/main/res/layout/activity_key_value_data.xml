@@ -23,6 +23,12 @@
             android:layout_height="wrap_content"
             android:text="@string/readkeyvalue"
             android:onClick="readKeyValueTest"/>
+        <Button
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:text="@string/deletekeyvalue"
+            android:onClick="deleteKeyValueTest"/>
     </LinearLayout>
 
 
